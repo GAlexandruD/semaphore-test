@@ -48,7 +48,7 @@
         image: sissbruecker/linkding
         state: started
         ports:
-          - "9090:9090"
+          - "9091:9090"
         # volumes:
         #   - /your/local/data:/etc/linkding/data
 

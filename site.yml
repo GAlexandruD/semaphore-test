@@ -1,5 +1,5 @@
 ---
-- hosts: localvms
+- hosts: dragotest
   become: true
   tasks:
     - name: Update APT package index
